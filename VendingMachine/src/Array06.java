@@ -14,6 +14,5 @@ public class Array06 {
         System.out.println("-----------------");
         System.out.println(array2.length);
 //        System.out.println(array3.length); //NullPointerException
-//        System.out.println(array4.length); //NullPointerException
     }
 }
